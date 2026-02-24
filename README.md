@@ -1,4 +1,4 @@
-# 7thShop (DynamicShop)
+# 7thShop
 
 Buyer-ready, cross-play economy shop plugin for Paper/Spigot servers. Built for 7th Heaven, designed to feel premium to players and simple to run for staff.
 
